@@ -38,7 +38,7 @@ Ubuntu is a popular, open-source Linux operating system known for its ease of us
 
   Creating 2600 folders in a single code was very interesting.
 ![image](https://raw.githubusercontent.com/Veerendras2004/MARVEL-BATCH-5/b19c220ed0866a70e5d4931cfdb6616591b90e45/ubuntu1.jpg)
-![image](https://raw.githubusercontent.com/Veerendras2004/MARVEL-BATCH-5/b19c220ed0866a70e5d4931cfdb6616591b90e45/ubuntu1.jpg)
+![image](https://raw.githubusercontent.com/Veerendras2004/MARVEL-BATCH-5/b19c220ed0866a70e5d4931cfdb6616591b90e45/ubuntu2.jpg)
 
 ***
 
@@ -46,6 +46,60 @@ Ubuntu is a popular, open-source Linux operating system known for its ease of us
 
 #### Defination
 Kaggle is an online platform that hosts data science competitions and provides datasets, notebooks, and tools for data analysis and machine learning.
+![image](https://raw.githubusercontent.com/Veerendras2004/MARVEL-BATCH-5/4c1d77f89bb1a85efec56d0bd8038b41957d66d3/kaggle.png)
+
+***
+
+# TASK 6 : Working with Pandas and Matplotlib
+
+#### Defination
+Pandas is a Python library used for working with data sets. It has functions for analyzing, cleaning, exploring, and manipulating data. Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+
+***
+
+# TASK 7 :Create a Portfolio Webpage
+
+#### Defination
+
+A portfolio is a curated collection of an individual's or organization's work, achievements, and skills, often used to showcase capabilities and experience.
+
+
+
+***
+
+# TASK 9 : Tinkercad
+
+#### Defination
+Tinkercad is an online 3D modeling and design tool that allows users to create, modify, and share 3D digital designs easily.
+
+
+***
+
+# TASK 12: Soldering Prerequisites
+
+#### Defination
+Soldering is the process of joining two or more metal components together by melting and flowing a filler metal (solder) into the joint.
+
+
+
+# TASK 14 : Karnaugh Maps and Deriving the logic circuit
+
+
+
+
+***
+
+# TASK 15 : Active Participation
+
+
+
+
+
+
+***
+
+
+
 
 
   
