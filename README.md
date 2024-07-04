@@ -2,6 +2,7 @@
 
 # TASK 1 : 3D printing
 
+#### Defination
 3D printing is an additive manufacturing process that creates three-dimensional objects from a digital file by laying down successive layers of material.
 
 Here is screenshot of our model(Ex:top):![image](https://github.com/Veerendras2004/MARVEL-BATCH-5/blob/main/3dprint.jpg?raw=true)
@@ -10,6 +11,7 @@ Here is screenshot of our model(Ex:top):![image](https://github.com/Veerendras20
 
 # TASK 2 : API
 
+#### Defination
 An API (Application Programming Interface) is a set of rules and protocols that allows different software applications to communicate with each other.
 
 Here is an example of Voice to speech API :repository link(https://github.com/Veerendras2004/Marvelapi.git)
@@ -19,6 +21,7 @@ screenshot of our api ![image](https://raw.githubusercontent.com/Veerendras2004/
 
 # TASK 3 : Working with github
 
+#### Defination
 GitHub is a web-based platform for version control and collaborative software development using Git.
 This task helped me get to know about  like Forking, Committing Changes, Pull Requests,cloning etc...
 ![image](https://github.com/Veerendras2004/MARVEL-BATCH-5/blob/main/clone.png?raw=true)
@@ -27,12 +30,25 @@ This task helped me get to know about  like Forking, Committing Changes, Pull Re
 
 # TASK 4 : Get familiar with the command line on ubuntu and do the following subtasks
 
+#### Defination
 Ubuntu is a popular, open-source Linux operating system known for its ease of use, regular releases, and strong community support.
 
 * I learnt to create 2600 folders in a single code.
 * concatenate two text files containing any random text and display them on the terminal.
 
   Creating 2600 folders in a single code was very interesting.
+![image](https://raw.githubusercontent.com/Veerendras2004/MARVEL-BATCH-5/b19c220ed0866a70e5d4931cfdb6616591b90e45/ubuntu1.jpg)
+![image](https://raw.githubusercontent.com/Veerendras2004/MARVEL-BATCH-5/b19c220ed0866a70e5d4931cfdb6616591b90e45/ubuntu1.jpg)
+
+***
+
+# TASK 5 : Kaggle contest
+
+#### Defination
+Kaggle is an online platform that hosts data science competitions and provides datasets, notebooks, and tools for data analysis and machine learning.
+
+
+  
 
   
 
