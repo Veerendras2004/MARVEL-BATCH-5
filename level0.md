@@ -24,9 +24,10 @@ screenshot of our api ![image](https://raw.githubusercontent.com/Veerendras2004/
 #### Defination
 GitHub is a web-based platform for version control and collaborative software development using Git.
 This task helped me get to know about  like Forking, Committing Changes, Pull Requests,cloning etc...
-![image](https://github.com/Veerendras2004/MARVEL-BATCH-5/blob/main/clone.png?raw=true)
+
 ![image](https://raw.githubusercontent.com/Veerendras2004/MARVEL-BATCH-5/f8cadf6989baad051270bc5cc47eaad4987238e1/git1.png)
 ![image](https://raw.githubusercontent.com/Veerendras2004/MARVEL-BATCH-5/f8cadf6989baad051270bc5cc47eaad4987238e1/git2.png)
+![image](https://github.com/Veerendras2004/MARVEL-BATCH-5/blob/main/clone.png?raw=true)
 
 ***
 
@@ -80,6 +81,7 @@ Here is my Portfolio repository link:(https://github.com/Veerendras2004/Portfoli
 
 ***
 # TASK 8 : Writing Resource Article using Markdown
+Repository link : (https://github.com/Veerendras2004/Markdown.git)
 ![image](https://raw.githubusercontent.com/Veerendras2004/MARVEL-BATCH-5/a10a950c8f978ed8633dfa33a0884366c3724955/md1.png)
 ![image](https://raw.githubusercontent.com/Veerendras2004/MARVEL-BATCH-5/a10a950c8f978ed8633dfa33a0884366c3724955/md2.png)
 
