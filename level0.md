@@ -78,7 +78,12 @@ Here is my Portfolio repository link:(https://github.com/Veerendras2004/Portfoli
 # TASK 9 : Tinkercad
 
 #### Defination
+
 Tinkercad is an online 3D modeling and design tool that allows users to create, modify, and share 3D digital designs easily.
+
+Here is example that I build a circuit in Tinkercad to measure distance between object and ultrasonic sensor.
+![image](https://github.com/Veerendras2004/MARVEL-BATCH-5/blob/main/Screenshot%202024-07-05%20123125.png?raw=true)
+![image](https://github.com/Veerendras2004/MARVEL-BATCH-5/blob/main/Screenshot%202024-07-05%20124016.png?raw=true)
 
 
 ***
@@ -87,6 +92,10 @@ Tinkercad is an online 3D modeling and design tool that allows users to create, 
 
 #### Defination
 Soldering is the process of joining two or more metal components together by melting and flowing a filler metal (solder) into the joint.
+![image]![Screenshot 2024-07-05 124505](https://github.com/Veerendras2004/MARVEL-BATCH-5/assets/147142546/890b17dd-7623-47de-9462-4d559150d868)
+![image]![Screenshot 2024-07-05 124505](https://github.com/Veerendras2004/MARVEL-BATCH-5/assets/147142546/4d9416f3-691f-4cdd-a92d-bb577b771473)
+
+
 
 
 
