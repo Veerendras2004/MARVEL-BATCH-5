@@ -25,6 +25,8 @@ screenshot of our api ![image](https://raw.githubusercontent.com/Veerendras2004/
 GitHub is a web-based platform for version control and collaborative software development using Git.
 This task helped me get to know about  like Forking, Committing Changes, Pull Requests,cloning etc...
 ![image](https://github.com/Veerendras2004/MARVEL-BATCH-5/blob/main/clone.png?raw=true)
+![image](https://raw.githubusercontent.com/Veerendras2004/MARVEL-BATCH-5/f8cadf6989baad051270bc5cc47eaad4987238e1/git1.png)
+![image](https://raw.githubusercontent.com/Veerendras2004/MARVEL-BATCH-5/f8cadf6989baad051270bc5cc47eaad4987238e1/git2.png)
 
 ***
 
