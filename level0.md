@@ -46,6 +46,7 @@ Ubuntu is a popular, open-source Linux operating system known for its ease of us
 
 #### Defination
 Kaggle is an online platform that hosts data science competitions and provides datasets, notebooks, and tools for data analysis and machine learning.
+reference(https://colab.research.google.com/drive/1VRirk1ifh0g9HIoSFQRRmVMa9GdTJ8Pk)
 ![image](https://raw.githubusercontent.com/Veerendras2004/MARVEL-BATCH-5/4c1d77f89bb1a85efec56d0bd8038b41957d66d3/kaggle.png)
 
 ***
@@ -55,6 +56,10 @@ Kaggle is an online platform that hosts data science competitions and provides d
 #### Defination
 Pandas is a Python library used for working with data sets. It has functions for analyzing, cleaning, exploring, and manipulating data. Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 
+Here is an example that I had plot a graph of employment data: reference(https://colab.research.google.com/drive/1V3U2ziUmGic16hDckIVk3DijsH6aKhEX)
+![image](https://github.com/Veerendras2004/MARVEL-BATCH-5/blob/main/Screenshot%202024-07-05%20121122.png?raw=true)
+![image](https://github.com/Veerendras2004/MARVEL-BATCH-5/blob/main/Screenshot%202024-07-05%20121134.png?raw=true)
+
 ***
 
 # TASK 7 :Create a Portfolio Webpage
@@ -62,6 +67,9 @@ Pandas is a Python library used for working with data sets. It has functions for
 #### Defination
 
 A portfolio is a curated collection of an individual's or organization's work, achievements, and skills, often used to showcase capabilities and experience.
+
+Here is my Portfolio repository link:(https://github.com/Veerendras2004/Portfolio.git)
+![image](https://github.com/Veerendras2004/MARVEL-BATCH-5/blob/main/Screenshot%202024-07-04%20215824.png?raw=true)
 
 
 
